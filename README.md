@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to 301 
+
+## 301-level READS hope you will enjoy it. 😃
+### What to Read List ⏳ :
+ - SMACSS and Responsive Web Design
+ - jQuery, Events, and The DOM
+ - Flexbox and Templating
+ - Responsive Web Design and Regular Expressions
+ - Heroku Deployment
+ - Node, Express, and APIs
+ - SQL
+ - Refactoring and Modules
+ - The Call Stack and Debugging
 
 You can use the [editor on GitHub](https://github.com/Dima-BR/Reading-301/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
